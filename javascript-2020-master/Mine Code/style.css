@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;    
+}
+
+.container {
+    max-width: 1200px;
+    margin: 15 auto;
+}
+
+.srch-icon {
+    width: 30px;
+    height: 30px;
+}
